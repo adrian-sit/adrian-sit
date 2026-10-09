@@ -8,8 +8,6 @@
 ### 🌱 What I'm Learning
 
 - Agentic workflows & orchestration (LangChain, LangGraph)
-- Fine-tuning with LoRA/QLoRA (PEFT)
-- Efficient model serving with vLLM, including LoRA-adapter serving
 - Retrieval evaluation and retrieval strategies
 - Structured LLM outputs
 
