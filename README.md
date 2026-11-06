@@ -9,7 +9,8 @@
 
 - Agentic workflows & orchestration (LangChain, LangGraph)
 - Retrieval evaluation and retrieval strategies
-- Structured LLM outputs
+- Cloud & DevOps: AWS, CI/CD, GitHub Actions
+- Backend Engineering: Asynchronous workflows, task queues, REST API design
 
 <!--
 **adrian-sit/adrian-sit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
