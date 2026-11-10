@@ -2,7 +2,7 @@
 
 ### 🔭 What I'm Working On
 
-- **PaperProbe**: an agentic research-paper review assistant that generates critical discussion questions
+- **PaperProbe**: a research paper analysis platform built around REST APIs, data integration, and AI-powered workflows.
 - **Personal Movie Vault**: a local RAG system over personal movie notes and viewing history
 
 ### 🌱 What I'm Learning
